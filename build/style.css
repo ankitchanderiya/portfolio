@@ -36,6 +36,7 @@ h1{
 
 .dbtn{
     margin: 10% 3% 5% 0;
+    cursor: pointer;
 }
 
 .iphone-image{
